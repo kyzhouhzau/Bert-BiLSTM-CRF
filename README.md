@@ -3,8 +3,9 @@
 + BERT:https://github.com/google-research/bert
 + BiLSTM-CRF:https://github.com/kyzhouhzau/
 
-Sequence_Labeling
+
 This model based on google's Bert and hanxiao's bert-as-service this just a try to use bert in a word-embedding mode.
+
 This model still has some problems need to solve.
 such as:
 1. the bert-service can catch the speed of model training.
