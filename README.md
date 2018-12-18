@@ -12,6 +12,7 @@ such as:
 3. The result on dev data was not very perfect!
 4. only trained 9177 batch. if more maybe better!
 5. others
+
 Run:
 First:start bert service
 ```
