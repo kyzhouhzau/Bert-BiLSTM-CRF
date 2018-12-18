@@ -1,6 +1,6 @@
 # bert_Bilstm_Crf
 + bert-as-service:https://github.com/hanxiao/bert-as-service
-+ https://github.com/google-research/bert
++ BERT:https://github.com/google-research/bert
 + BiLSTM-CRF:https://github.com/kyzhouhzau/
 
 Sequence_Labeling
